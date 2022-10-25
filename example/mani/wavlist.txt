@@ -1,0 +1,5 @@
+example/mani/wavs_padded
+p363/p363_243_mic2_up.flac	71680
+p374/p374_054_mic2_up.flac	78080
+p340/p340_037_mic2_up.flac	85760
+p336/p336_153_mic2_up.flac	67840
