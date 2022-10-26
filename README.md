@@ -1,11 +1,11 @@
 # ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed
-This is the implementation of our paper: "ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed" by Meiying Chen and Zhiyao Duan.
-![image](system.jpg)
 
+**Demo page with audio samples:** https://bit.ly/3PsrKLJ
 
 **Paper link:** https://arxiv.org/abs/2209.11866
 
-**Demo page with audio samples:** https://bit.ly/3PsrKLJ
+This is the implementation of our paper: "ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed" by Meiying Chen and Zhiyao Duan.
+![image](system.jpg)
 
 
 ## Usage
