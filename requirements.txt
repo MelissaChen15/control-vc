@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19e8d320627e9544a968f0d99ce07e91c4270d7bcff5207bcaf909ed94c92b9c
-size 97
+torch
+numpy
+librosa
+scipy
+tensorboard
+soundfile
+amfm_decompy
+matplotlib
+ffmpeg
+tqdm
+fairseq
+psola
