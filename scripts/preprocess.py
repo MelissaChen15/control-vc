@@ -72,7 +72,7 @@ def pad_data(p, out_dir, trim=False, pad=True, rhythm_cruve=True, rhythm_mode="u
                           constant_values=0)
         assert data.shape[0] % 1280 == 0
 
-    outname = "_".join([p.stem, rhythm_mode]) + postfix
+    outname = "_".join([p.stem, rhythm_mode]) + postfix if rhythm_cruve else p.stem + postfix
     if keep_folder:
         outpath = out_dir / p.parent.name / outname
     else:
