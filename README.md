@@ -129,15 +129,8 @@ python3 train_main.py \
 ```
 
 ## Citation
-To cite this paper or repo, please use the following BibTeX entry:
-```
-@article{chen2022controlvc,
-    title={ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Rhythm},
-    author={Chen, Meiying and Duan, Zhiyao},
-    journal={arXiv preprint arXiv:2209.11866},
-    year={2022}
-}
-```
+To cite this paper or repo, please use the following BibTeX entry: 
+[This is currently hidden to maintain anonymity during paper review process.]
 
 ## Acknowledgements
 This project in based on the following repos (in alphabetic order):
