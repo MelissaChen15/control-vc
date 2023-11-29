@@ -132,19 +132,12 @@ python3 train_main.py \
 To cite this paper or repo, please use the following BibTeX entry: 
 
 @inproceedings{chen23r_interspeech,
-
   author={Meiying Chen and Zhiyao Duan},
-  
   title={{ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed}},
-  
   year=2023,
-  
   booktitle={Proc. INTERSPEECH 2023},
-  
   pages={2098--2102},
-  
   doi={10.21437/Interspeech.2023-1788}
-  
 }
 
 ## Acknowledgements
